@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @lecoxsportif
 - 👀 I’m interested in data science and geophysics
 - 🌱 I’m currently learning Python and business analytics
-- 💞️ I’m looking to collaborate on sport analytics
-- 📫 How to reach me ?
+
+other stuff in private repos, dm on linkedin if you are recruiting & want to discuss further...
 
 <!---
 lecoxsportif/lecoxsportif is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
